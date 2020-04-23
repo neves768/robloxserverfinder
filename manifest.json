@@ -1,9 +1,9 @@
 {
-	"description": "Roblox Button to quickly connect into the most empty server",
+	"description": "Um novo botão que te permite encontrar rapidamente servidores vazios. Um tratamento VIP gratuito! ",
 	"manifest_version": 2,
 	"name": "RobloxFinder",
-	"author": "Christopher Neves",
-	"version": "1.0",
+	"author": "Christopher Neves768",
+	"version": "1.0.1",
 	"homepage_url": "https://github.com/neves768/robloxserverfinder",
 	"icons": {
 		"48": "icons/icon.png"
