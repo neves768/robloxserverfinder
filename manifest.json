@@ -1,0 +1,21 @@
+{
+	"description": "Roblox Button to quickly connect into the most empty server",
+	"manifest_version": 2,
+	"name": "RobloxFinder",
+	"author": "Christopher Neves",
+	"version": "1.0",
+	"homepage_url": "https://github.com/neves768/robloxserverfinder",
+	"icons": {
+		"48": "icons/border-48.png"
+	},
+	"permissions": [
+		"*://*.roblox.com/*",
+		"webRequest"
+	],
+	"content_scripts": [
+		{
+			"matches": ["*://*.roblox.com/*"],
+			"js": ["aroblox.js"]
+		}
+	]
+}
