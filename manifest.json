@@ -6,7 +6,7 @@
 	"version": "1.0",
 	"homepage_url": "https://github.com/neves768/robloxserverfinder",
 	"icons": {
-		"48": "icons/border-48.png"
+		"48": "icons/icon.png"
 	},
 	"permissions": [
 		"*://*.roblox.com/*",
