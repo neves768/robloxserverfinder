@@ -10,7 +10,7 @@ p.innerHTML = `
 	</div>
 `;
 
-var div = document.getElementsByClassName("game-play-buttons")[0];
+var div = document.getElementsByClassName("game-details-play-button-container")[0];
 div.appendChild(p);
 
 var path = window.location.pathname.split("/")[2],
