@@ -6,5 +6,5 @@ This add-on adds a new functionality into any Roblox game page.
 
 
 # Record
-We've hit almost 50 active users per week!
+We've hit 480 active users on Apr 6, 2021
 Download Right now: https://addons.mozilla.org/pt-BR/firefox/addon/robloxfinder/?src=search
